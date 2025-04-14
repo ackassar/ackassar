@@ -20,14 +20,11 @@ and Computer Enginneering, passionate about systems that connect to the real wor
 - Real-time systems and peripheral interfacing  
 - Yocto, build systems, and cross-compilation 
 - Sensor applications in automotive industry
-<br>
-<br>
-<br>
-
 
 ## Statistics
 <div align="center">
-<a href="https://www.annabell-kassar.dev"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ackassar&&bg_color=0,0D1B2A,1B263B,415A77&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true&hide_border=true&count_private=true"/><img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=ackassar&&background=0,415A77,1B263B,0D1B2A&title=FFFFFF&ring=FFFFFF&fire=FFFFFF&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&show_icons=true&hide_border=true&count_private=true"/></a>
+<a href="https://www.annabell-kassar.dev"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=ackassar&&bg_color=0,0D1B2A,1B263B,415A77&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true&hide_border=true&count_private=true"/>
+<img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=ackassar&&background=0,415A77,1B263B,0D1B2A&title=FFFFFF&ring=FFFFFF&fire=FFFFFF&stroke=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&show_icons=true&hide_border=true&count_private=true"/></a>
 </div>
 
 
