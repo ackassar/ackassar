@@ -2,7 +2,8 @@
 <div style="opacity:1;background-color:#1B263B;text-color:#FFFFFF";>
 
 ```
-I'm an aspiring Embedded Systems Engineer with a BSc in Information and Computer Enginneering, passionate about systems that connect to the real world.
+I'm an aspiring Embedded Systems Engineer with a BSc in Information 
+and Computer Enginneering, passionate about systems that connect to the real world.
 ```
 
 </div>
