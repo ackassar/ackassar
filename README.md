@@ -39,7 +39,7 @@ and Computer Enginneering, passionate about systems that connect to the real wor
 
 ## Connect with Me
 <div align="center">
-<img src="https://img.shields.io/badge/Dev.to-415A77?logo=dev.to&logoColor=white&style=for-the-badge"><img src="https://img.shields.io/badge/mastodon-778DA9?logo=mastodon&logoColor=white&style=for-the-badge"><img src="https://img.shields.io/badge/LinkedIn-415A77?logo=linkedin&logoColor=white&style=for-the-badge"><a href="https://www.annabell-kassar.dev"><img src="https://img.shields.io/badge/Website-778DA9?l&style=for-the-badge"></a>
+<a href="https://dev.to/ackassar"><img src="https://img.shields.io/badge/Dev.to-415A77?logo=dev.to&logoColor=white&style=for-the-badge"></a><a href="https://mastodon.social/@ackassar"><img src="https://img.shields.io/badge/mastodon-778DA9?logo=mastodon&logoColor=white&style=for-the-badge"></a><a href="https://at.linkedin.com/in/annabell-kassar-32a991343"><img src="https://img.shields.io/badge/LinkedIn-415A77?logo=linkedin&logoColor=white&style=for-the-badge"></a><a href="https://www.annabell-kassar.dev"><img src="https://img.shields.io/badge/Website-778DA9?l&style=for-the-badge"></a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1B263B,100:778DA9&section=footer">
