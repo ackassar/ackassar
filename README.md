@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:1B263B,100:778DA9&text=Hi,%20I%20am%20Annabell&fontSize=50&fontAlignY=41&animation=fadeIn&fontColor=FFFFFF&desc=Embedded%20Systems%20Engineer">
 
 I'm an aspiring Embedded Systems Engineer with a BSc in Information 
-and Computer Enginneering, passionate about systems that connect to the real world.
+and Computer Engineering, passionate about systems that connect to the real world.
 
 
 ## I am Currently Working on...
