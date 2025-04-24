@@ -14,7 +14,7 @@ and Computer Engineering, passionate about systems that connect to the real worl
 - Connecting with people
 
 ## My Learning
-<img style="display: block;margin: auto;" width="200px" src="image.png" align="right">
+<img style="display: block;margin: auto;" width="200px" src="c2f12ca0-f104-4119-a2d4-3010b6c2559a.png" align="right">
 
 - ARM architecture & microcontroller programming  
 - Real-time systems and peripheral interfacing  
