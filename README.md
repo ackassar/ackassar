@@ -19,7 +19,7 @@ and Computer Engineering, passionate about systems that connect to the real worl
 - ARM architecture & microcontroller programming  
 - Real-time systems and peripheral interfacing  
 - Yocto, build systems, and cross-compilation 
-- Sensor applications in automotive industry
+- Sensor applications for industry
 <br>
 <br>
 <br>
