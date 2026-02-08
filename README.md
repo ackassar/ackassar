@@ -1,35 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:1B263B,100:778DA9&text=Hi,%20I%20am%20Annabell&fontSize=50&fontAlignY=41&animation=fadeIn&fontColor=FFFFFF&desc=Embedded%20Systems%20Engineer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:1B263B,100:778DA9&text=Hi,%20I%20am%20Annabell&fontSize=50&fontAlignY=41&animation=fadeIn&fontColor=FFFFFF&desc=Aspiring%20Health%20Systems%20Engineer">
 
-I'm an aspiring Embedded Systems Engineer with a BSc in Information 
+I'm an aspiring Health Systems Engineer in training with a BSc in Information 
 and Computer Engineering, passionate about systems that connect to the real world.
 
 
 ## I am Currently Working on...
-- Strengthening my C/C++ skills for embedded systems  
-- Exploring RTOS, IoT, and low-level Linux development  
+- Deepen my knowledge about Machine Learning
+- Exploring FHIR, HL7 and other health standards
+- Getting into Natural Language Processing
 
 ## My Goals are...  
-- Becoming a skilled, confident embedded developer  
+- Becoming a skilled, confident developer  
 - Learning by doing projects and sharing them
 - Connecting with people
-
-## My Learning
-<img style="display: block;margin: auto;" width="200px" src="c2f12ca0-f104-4119-a2d4-3010b6c2559a.png" align="right">
-
-- ARM architecture & microcontroller programming  
-- Real-time systems and peripheral interfacing  
-- Yocto, build systems, and cross-compilation 
-- Sensor applications for industry
-<br>
-<br>
-<br>
-<br>
-
-
-## Statistics
-<div align="center">
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=ackassar&&bg_color=0,0D1B2A,1B263B,415A77&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&show_icons=true&hide_border=true&count_private=true"/><img height="137px" src="https://github-readme-streak-stats.herokuapp.com?user=ackassar&hide_border=true&short_numbers=true&background=41%2C1B263B%2C415A77&border=FFFFFF&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
-</div>
 
 
 ## Tech Stack
