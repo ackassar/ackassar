@@ -1,6 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:1B263B,100:778DA9&text=Hi,%20I%20am%20Annabell&fontSize=50&fontAlignY=41&animation=fadeIn&fontColor=FFFFFF&desc=Aspiring%20Health%20Systems%20Engineer">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:1B263B,100:778DA9&text=Hi,%20I%20am%20Annabell&fontSize=50&fontAlignY=41&animation=fadeIn&fontColor=FFFFFF&desc=Aspiring%20Information%20and%20Computer%20Engineer">
 
-I'm an aspiring Health Systems Engineer in training with a BSc in Information 
+I'm an aspiring Engineer in training with a BSc in Information 
 and Computer Engineering, passionate about systems that connect to the real world.
 
 
